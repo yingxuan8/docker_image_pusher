@@ -1,1 +1,2 @@
 ontresearch/wf-common
+trinityctat/ctat_lr_fusion:1.1.0
