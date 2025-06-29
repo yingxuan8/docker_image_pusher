@@ -1,1 +1,1 @@
-trinityctat/ctat_lr_fusion:1.1.0
+lingminhao/bambusc:beta1.2
