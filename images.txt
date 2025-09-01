@@ -1,1 +1,1 @@
-ontresearch/wf-single-cell
+trinityctat/ctat_lr_fusion:1.1.0
