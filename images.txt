@@ -1,1 +1,1 @@
-ontresearch/wf-single-cell
+ontresearch/wf-common
